@@ -115,6 +115,9 @@ body{
         font-size: 16px;
     }
 
+    #place-time .container-fluid .row .col-10 img{
+        height: 70vh;
+    }
  }
 
  @media (max-width: 373px) { 
