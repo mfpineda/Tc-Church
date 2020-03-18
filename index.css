@@ -116,3 +116,11 @@ body{
     }
 
  }
+
+ @media (max-width: 373px) { 
+
+    #header .container .navbar-brand span{
+        display: none;
+    }
+
+ }
