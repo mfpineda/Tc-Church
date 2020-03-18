@@ -117,7 +117,7 @@ body{
 
  }
 
- @media (max-width: 373px) { 
+ @media (max-width: 357px) { 
 
     #header .container .navbar-brand span{
         display: none;
