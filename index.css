@@ -120,7 +120,7 @@ body{
  @media (max-width: 357px) { 
 
     #header .container .navbar-brand span{
-        display: none;
+        font-size: 13px;
     }
 
  }
