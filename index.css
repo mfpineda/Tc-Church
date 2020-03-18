@@ -107,3 +107,12 @@ body{
     padding-bottom: 5rem;
     color: white;
 }
+
+
+@media (max-width: 419px) { 
+
+    #header .container .navbar-brand{
+        font-size: 16px;
+    }
+
+ }
